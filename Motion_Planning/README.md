@@ -4,7 +4,7 @@
 
 ## Mapping for Planning
 
-The occupancy grid is a way of dividing space into uniformly-sized cells, with each cell representing the likelihood of it being occupied. It is a fundamental tool in robotics and serves as an alternative to storing complete point clouds. This section presents the occupancy grid and discusses its space and computational needs. In numerous scenarios, a two-dimensional occupancy grid is adequate, and learners will explore methods to effectively condense and refine three-dimensional LIDAR scans into two-dimensional maps.
+The project involves the acquisition of range measurements from a moving car's surroundings using a lidar scanning function. It then extracts occupancy information from these measurements using an inverse scanner model. The next step is to perform log-odds updates on an occupancy grid based on the incoming measurements. Finally, it iteratively constructs a probabilistic occupancy grid from these log-odds updates.
 
 - Code: [Occupancy Grid Generation](./Part1/Module_2_Assessment.ipynb)
 - Obtained Values [occ_grid_values.txt](./Part1/occ_grid_values.txt)
