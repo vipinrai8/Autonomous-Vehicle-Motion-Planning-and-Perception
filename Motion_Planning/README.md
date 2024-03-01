@@ -1,6 +1,6 @@
 # Motion Planning for Self-Driving Cars
 
-![Cover](./media/cover.gif)
+![Cover](https://github.com/vipinrai8/Autonomous-Vehicle-Motion-Planning-and-Perception/blob/main/Motion_Planning/media/cover.gif)
 
 ## Mapping for Planning
 
