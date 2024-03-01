@@ -13,13 +13,14 @@ The first task for automating an driverless vehicle is to define a model for how
 
 - Programming Assignment: [Longitudinal Vehicle Model](./Part1/Longitudinal_Vehicle_Model.ipynb)
   - Submission Files [xdata.txt](./Part1/xdata.txt)
+  - ![Implementation](Vehicle_Control/media/Picture2.png)
 
 ## Vehicle Control
 
-For the last week of the course, now you will get hands-on with a simulation of an autonomous vehicle that requires longitudinal and lateral vehicle control design to track a predefined path along a racetrack with a given speed profile. You are encouraged to modify the speed profile and/or path to improve their lap time, without any requirement to do so. Work and play!
+The final project in this course involves the development of control code for a self-driving car to navigate a racetrack within the CARLA simulation environment. The project requires the construction of longitudinal and lateral dynamic models for the vehicle, followed by the creation of controllers that manage speed and path tracking performance using Python.
 
 - Final Project: [Self-Driving Vehicle Control](./Part2/final_project)
   - Submission Files [trajectory.txt](./Part2/trajectory.txt)
-  - Project Video: [Link](./media/video.mp4)
+  - Project Video: ![Link](./media/video.mp4)
 
 
