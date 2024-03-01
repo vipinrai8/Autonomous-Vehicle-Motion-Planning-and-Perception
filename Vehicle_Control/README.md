@@ -8,18 +8,18 @@ This course will introduce you to the terminology, design considerations and saf
 
 The first task for automating an driverless vehicle is to define a model for how the vehicle moves given steering, throttle and brake commands. This module progresses through a sequence of increasing fidelity physics-based models that are used to design vehicle controllers and motion planners that adhere to the limits of vehicle capabilities.
 
-- Programming Assignment: [Kinematic Bicycle Model](./Week_4/Kinematic_Bicycle_Model.ipynb)
-  - Submission Files [figure8.txt](./Week_4/figure8.txt)
+- Programming Assignment: [Kinematic Bicycle Model](./Part1/Kinematic_Bicycle_Model.ipynb)
+  - Submission Files [figure8.txt](./Part1/figure8.txt)
 
-- Programming Assignment: [Longitudinal Vehicle Model](./Week_4/Longitudinal_Vehicle_Model.ipynb)
-  - Submission Files [xdata.txt](./Week_4/xdata.txt)
+- Programming Assignment: [Longitudinal Vehicle Model](./Part1/Longitudinal_Vehicle_Model.ipynb)
+  - Submission Files [xdata.txt](./Part1/xdata.txt)
 
 ## Vehicle Control
 
 For the last week of the course, now you will get hands-on with a simulation of an autonomous vehicle that requires longitudinal and lateral vehicle control design to track a predefined path along a racetrack with a given speed profile. You are encouraged to modify the speed profile and/or path to improve their lap time, without any requirement to do so. Work and play!
 
-- Final Project: [Self-Driving Vehicle Control](./Week_7/final_project)
-  - Submission Files [trajectory.txt](./Week_7/trajectory.txt)
+- Final Project: [Self-Driving Vehicle Control](./Part2/final_project)
+  - Submission Files [trajectory.txt](./Part2/trajectory.txt)
   - Project Video: [Link](./media/video.mp4)
 
 
