@@ -17,4 +17,4 @@
 
 ## Certificate
 
-![Certificate](media/Certificate.pdf)
+![Certificate](Certificate.png)
