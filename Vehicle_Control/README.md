@@ -8,10 +8,11 @@ The first task for automating an driverless vehicle is to define a model for how
 
 - Code File: [Kinematic Bicycle Model](./Part1/Kinematic_Bicycle_Model.ipynb)
   - Submission Files [figure8.txt](./Part1/figure8.txt)
+    ![image](https://github.com/vipinrai8/Self-Driving-Car-Specialization/blob/main/Vehicle_Control/media/Picture2.png)
 
 - Code File: [Longitudinal Vehicle Model](./Part1/Longitudinal_Vehicle_Model.ipynb)
   - Submission Files [xdata.txt](./Part1/xdata.txt)
-  - [Implementation](./Vehicle_Control/media/Picture2.png)
+    ![image](https://github.com/vipinrai8/Self-Driving-Car-Specialization/blob/main/Longitudinal_vechile%20_control.png)
 
 ## Vehicle Control
 
