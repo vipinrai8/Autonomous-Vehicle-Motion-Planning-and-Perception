@@ -4,7 +4,7 @@
 ## Content
 
 - Part 1: [Vehicle Control of Self-Driving Cars](Vehicle_Control)
-  - Summary: Designed and implemented a controller tailored for the CARLA simulator, aiming to guide the vehicle along a predetermined race track. The controller is equipped to manage both longitudinal and lateral control, ensuring the vehicle achieves specified speeds at designated waypoints.Summary: Designed and implemented a controller tailored for the CARLA simulator, aiming to guide the vehicle along a predetermined race track. The controller is equipped to manage both longitudinal and lateral control, ensuring the vehicle achieves specified speeds at designated waypoints.
+  - Summary: Designed and implemented a controller tailored for the CARLA simulator, aiming to guide the vehicle along a predetermined race track. The controller is equipped to manage both longitudinal and lateral control, ensuring the vehicle achieves specified speeds at designated waypoints.
 
 - Part 2: [State Estimation of Self-Driving Cars](State_Estimation_And_Localization)
   - Summary: This part was implemented in three sub-parts: In the first part , implemented the Extended Kalman Filter (ES-EKF) by completing the provided code for filter prediction and correction steps. Evaluated the filter's accuracy by comparing estimated vehicle positions with ground truth data. In the second part, analyzed the impact of sensor miscalibration and adjust filter parameters to compensate. In the third part, explorde the effects of sensor dropout on position estimates, highlighting drift and uncertainty changes during measurement unavailability.
