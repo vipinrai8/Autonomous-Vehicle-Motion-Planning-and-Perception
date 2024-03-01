@@ -18,6 +18,6 @@ Parameterized curves are widely used to define paths through the environment for
 - Final Project: [Self-Driving Vehicle Control](./Part2/final_project)
   - Submission Files [trajectory.txt](./Part2/trajectory.txt)
   - Submission Files [collision_count.txt](./Part2/collision_count.txt)
-  - Project Video: [Link](./Part2/video.mp4)
+  - Project Video: [Link](https://github.com/vipinrai8/Autonomous-Vehicle-Motion-Planning-and-Perception/blob/main/Motion_Planning/media/MotionPlanning.mp4)
 
 
