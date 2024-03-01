@@ -14,9 +14,6 @@
 
 - Part 4: [Integrated Motion Planning for Self-Driving Cars](./04_motion_planning)
   - Summary: This part aims to develop a comprehensive motion planning stack for autonomous vehicles capable of navigating complex environments. It involves implementing behavioral planning logic, static collision checking, path selection, and velocity profile generation to ensure safe and efficient navigation. Key objectives include avoiding static and dynamic obstacles, tracking the lane centerline, and handling stop signs to achieve robust autonomous driving capabilities.
-- 
-
-
 
 ## Certificate
 
